@@ -1,0 +1,10 @@
+Sun Sep 24 18:25:19 UTC 2023
+Filesystem                Size      Used Available Use% Mounted on
+/dev/root                 4.9G      2.3G      2.6G  47% /
+   0 date > file.txt
+   1 cat file.txt 
+   2 df -h / >> file.txt 
+   3 cat file.txt 
+   4 history | tail -n 5 >> file.txt 
+AuthenticX86
+33
